@@ -1,0 +1,13 @@
+npm innit
+npm i express
+npm i mongoose
+npm i nodemon
+
+File: index.js
+
+sign up page
+must sign up to access other pages
+Nav bar changes to Log out
+password must not show in local storage
+password must not show at after sign up at local storage
+only 1 same entry
